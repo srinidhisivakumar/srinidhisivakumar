@@ -1,4 +1,4 @@
-<img src="https://www.google.com/search?sca_esv=ab354c44b20dd4be&sxsrf=ADLYWILutQqJB7NNgBpmYQd4n56a3Atycw:1719723995636&q=devops+engineer+srinidhi+sivakumar&uds=ADvngMgiq8uozSRb4WPAa_ESRaBJO3JJI3tjieUsC_84poOmpFCr6C-OC2ddLL9TKRCyTRj07wmjNlyWEIzpt17j_fE7jVZHrWu0Y8pP4kH0PQ2IJhASpA0bC13f5c82KmHN4Vht9q43EqU3PptCKjb3SzrEGkuPbQ&udm=2&sa=X&ved=2ahUKEwjKoPyOx4KHAxUumokEHXmqCAsQxKsJegQIChAB&ictx=0&biw=1440&bih=703&dpr=1#vhid=ECF70cgjLzqN6M&vssid=mosaic" height="50px" width="50px" alt=”site’s logo”>
+[![MasterHead](https://www.google.com/search?sca_esv=ab354c44b20dd4be&sxsrf=ADLYWILutQqJB7NNgBpmYQd4n56a3Atycw:1719723995636&q=devops+engineer+srinidhi+sivakumar&uds=ADvngMgiq8uozSRb4WPAa_ESRaBJO3JJI3tjieUsC_84poOmpFCr6C-OC2ddLL9TKRCyTRj07wmjNlyWEIzpt17j_fE7jVZHrWu0Y8pP4kH0PQ2IJhASpA0bC13f5c82KmHN4Vht9q43EqU3PptCKjb3SzrEGkuPbQ&udm=2&sa=X&ved=2ahUKEwjKoPyOx4KHAxUumokEHXmqCAsQxKsJegQIChAB&ictx=0&biw=1440&bih=703&dpr=1#vhid=ECF70cgjLzqN6M&vssid=mosaic)]
 <h1 align="center">Hi 👋, I'm Srinidhi Sivakumar</h1>
 <h3 align="center">Accomplished Senior Azure DevOps Engineer </h3>
 <img align="right" alt="Coding" width="400" src="sri.jpg">
